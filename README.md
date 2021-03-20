@@ -31,5 +31,5 @@ go east (moves left)<br />
 go west (moves right)<br />
 go north (moves up)<br />
 go south (moves down)<br />
-take // takes an item<br />
-drop // drops an item
+take <item name>// takes an item<br />
+drop <item name>// drops an item
