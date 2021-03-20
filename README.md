@@ -1,12 +1,16 @@
 # Treasure_Hunt
 This is a small game that I made in a Java class in school.
 
-Java version: 1.8
+I used JRE version 1.8 (8) with JDK 8
 
-Program is run from the command line
-To run program, type on command line:
+To compile:
+javac *.java
 
-java pkgfinal.project.Adventure map1.txt
+The main file is called Adventure and you need to specify a map .txt file to create the map.
+Make sure to have MapPics folder, map1items.txt (this file should not be edited) and the map.txt in the same directory as the java files
+
+To run:
+java Adventure map1.txt
 
 map1.txt can be a customized n x m matrix with images in the pictures folder.
 
