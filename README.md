@@ -1,18 +1,24 @@
 # Treasure_Hunt
 This is a small game that I made in a Java class in school.
 
+
+## Compiling
 I used JRE version 1.8 (8) with JDK 8<br />
 
 To compile:<br />
 javac *.java<br />
 
+## Running
 The main file is called Adventure and you need to specify a map .txt file to create the map.
 Make sure to have MapPics folder, map1items.txt (this file should not be edited) and the map.txt in the same directory as the java files
 
 To run:<br />
 java Adventure map1.txt<br />
 
-map1.txt can be a customized n x m matrix with images in the pictures folder.<br />
+## Customizing a map file
+A map file can be customized with an n x m matrix with images in the pictures folder.<br />
+For the characters, use the ones already provided at the bottom. This is the example map1.txt:
+  
 
 When saving a game, the file type must have .dat extension<br />
 
