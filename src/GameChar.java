@@ -1,5 +1,3 @@
-package pkgfinal.project;
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import javafx.scene.control.TextArea;
@@ -73,7 +71,7 @@ public class GameChar implements Serializable {
             txtArea.appendText(itemName + " was taken and added to inventory.\n");
             searchForItems(txtArea);// search for items again in case there is another one
         }else
-            txtArea.appendText("That item is not here.\n"); // if no item is found, let user know
+            txtArea.appendText(itemName + " is not here.\n"); // if no item is found, let user know
     }
     
     public void dropItem(String itemName, TextArea txtArea){

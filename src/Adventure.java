@@ -5,8 +5,6 @@
 // Date: 12/6/2018
 // Purpose: <Final part of Adventure Game in GUI version 2, in this version the serializing and de-serializing are implemented>
 
-package pkgfinal.project;
-
 import javafx.scene.input.KeyEvent;
 import javafx.scene.input.KeyCode;
 
@@ -112,10 +110,8 @@ public class Adventure extends Application {
                         txtArea.appendText(command + " command is not supported in game.");
                         break;
                 }
-            } catch (StringIndexOutOfBoundsException ex) {
-            }
-        } catch (NumberFormatException ex) {
-        }
+            } catch (StringIndexOutOfBoundsException ex) {}
+        } catch (NumberFormatException ex) {}
     }
 
     private void goCommand() { // instructions for command 'go' are given

@@ -1,5 +1,3 @@
-package pkgfinal.project;
-
 import java.io.FileNotFoundException;
 import java.io.Serializable;
 import java.util.ArrayList;
