@@ -18,7 +18,7 @@ java Adventure map1.txt<br />
 ## Customizing a map file
 A map file can be customized with an n x m matrix with images in the pictures folder.<br />
 For the characters, use the ones already provided at the bottom. This is the example map1.txt:
-  
+![GitHub Logo](MapEx.PNG)
 
 When saving a game, the file type must have .dat extension<br />
 
