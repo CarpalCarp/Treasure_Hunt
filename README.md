@@ -16,8 +16,8 @@ map1.txt can be a customized n x m matrix with images in the pictures folder.<br
 
 When saving a game, the file type must have .dat extension<br />
 
-commands:
-go east (moves left)
-go west (moves right)
-go north (moves up)
-go south (moves down)
+commands:<br />
+go east (moves left)<br />
+go west (moves right)<br />
+go north (moves up)<br />
+go south (moves down)<br />
