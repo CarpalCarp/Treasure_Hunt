@@ -14,6 +14,8 @@ Make sure to have MapPics folder, map1items.txt (this file should not be edited)
 
 To run:<br />
 java Adventure map1.txt<br />
+![GitHub Logo](GameEx1.PNG)
+![GitHub Logo](ProgramRunning.PNG)
 
 ## Customizing a map file
 A map file can be customized with an n x m matrix of characters.<br />
