@@ -17,6 +17,8 @@ java Adventure map1.txt<br />
 ![GitHub Logo](GameEx1.PNG)
 ![GitHub Logo](ProgramScreenshot.PNG)
 
+There isn't an objective in the game. It is to wonder around and search for supplies.
+
 ## Customizing a map file
 A map file can be customized with an n x m matrix of characters.<br />
 For the characters, use the ones already provided at the bottom. This is the example map1.txt:<br />
@@ -29,3 +31,5 @@ go east (moves left)<br />
 go west (moves right)<br />
 go north (moves up)<br />
 go south (moves down)<br />
+take // takes an item<br />
+drop // drops an item
