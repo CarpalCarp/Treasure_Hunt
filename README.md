@@ -4,6 +4,7 @@ This is a small game that I made in a Java class in school.
 
 ## Compiling
 I used JRE version 1.8 (8) with JDK 8<br />
+JavaFX was used to make the GUI<br />
 
 To compile:<br />
 javac *.java<br />
