@@ -17,7 +17,6 @@ public class GameChar implements Serializable {
     private ArrayList<Item> mapItems;
 
     GameChar(){
-        //inventory = new String[]{"brass lantern", "rope", "rations", "staff"};
         row = 2;        // we initialize row at 2 because row 0 and 1 is part of the X boundary, same with column
         column = 2;
         mapItems = new ArrayList<>();

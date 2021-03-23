@@ -21,6 +21,14 @@ There isn't an objective in the game. It is to wonder around and search for supp
 
 ## Customizing a map file
 A map file can be customized with an n x m matrix of characters.<br />
+
+The layout is as follows:
+rows x columns
+layout of matrix
+map height, map width
+map1items.txt *required
+character to image info
+
 For the characters, use the ones already provided at the bottom. This is the example map1.txt:<br />
 ![GitHub Logo](MapEx.PNG)
 
